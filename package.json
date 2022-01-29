@@ -1,0 +1,30 @@
+{
+  "name": "esm-methods-queue",
+  "version": "1.0.0",
+  "description": "manage pending methods in a queue",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjavidcr/esm-methods-queue.git"
+  },
+  "keywords": [
+    "javascript",
+    "esm",
+    "ES6",
+    "queue",
+    "concurrent"
+  ],
+  "author": "fjavidcr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjavidcr/esm-methods-queue/issues"
+  },
+  "homepage": "https://github.com/fjavidcr/esm-methods-queue#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
