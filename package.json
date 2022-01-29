@@ -1,6 +1,6 @@
 {
   "name": "esm-promise-queue",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESM module to resolve pending promises in chunks inside a FIFO queue",
   "main": "index.js",
   "module": "main.js",
