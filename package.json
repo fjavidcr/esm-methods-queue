@@ -1,7 +1,7 @@
 {
-  "name": "esm-methods-queue",
+  "name": "esm-promise-queue",
   "version": "1.0.0",
-  "description": "manage pending methods in a queue",
+  "description": "ESM module to resolve pending promises in chunks inside a FIFO queue",
   "main": "index.js",
   "module": "main.js",
   "scripts": {
@@ -9,21 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fjavidcr/esm-methods-queue.git"
+    "url": "git+https://github.com/fjavidcr/esm-promise-queue.git"
   },
   "keywords": [
     "javascript",
     "esm",
     "ES6",
     "queue",
-    "concurrent"
+    "concurrent",
+    "promise"
   ],
   "author": "fjavidcr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fjavidcr/esm-methods-queue/issues"
+    "url": "https://github.com/fjavidcr/esm-promise-queue/issues"
   },
-  "homepage": "https://github.com/fjavidcr/esm-methods-queue#readme",
+  "homepage": "https://github.com/fjavidcr/esm-promise-queue#readme",
   "dependencies": {
     "esm": "^3.2.25"
   }
